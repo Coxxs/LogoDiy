@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
-using AICommon;
 using System.Windows.Forms;
 
 namespace LogoDiy

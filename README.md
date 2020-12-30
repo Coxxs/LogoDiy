@@ -26,4 +26,4 @@ Photoshop 儲存的 `.jpg` 格式檔案可能會出現這樣的情況。建議�
 
 ### 換成什麼圖案好呢
 
-[這裡](https://github.com/Coxxs/LogoDiy/tree/main/Examples) 有一些例子可供參考。
+[這裡](https://github.com/Coxxs/LogoDiy/tree/master/Examples) 有一些例子可供參考。

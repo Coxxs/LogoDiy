@@ -8,7 +8,7 @@
 
 *使用前請更新至最新版 BIOS。不支援其他品牌電腦。*
 
-- 小新Pro 13 Ryzen（需更新 BIOS）
+- 小新Pro 13 Ryzen
 
 - 小新Air 14 2020 Intel
 

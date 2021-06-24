@@ -24,7 +24,7 @@ This may happen with Photoshop saved `.jpg` format files. We recommend saving as
 
 ### User interface of this utility is too ugly 🤯
 
-This is actually just something I wanted to use for myself and quickly made up, sorry.
+This is actually just something I wanted to use for myself and quickly build, sorry.
 
 ### Any recommendations for boot logo design?
 

@@ -16,7 +16,7 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - Feel free to test and add to this list
 
-## Common Problems
+## FAQ
 
 ### New boot logo does not take effect
 

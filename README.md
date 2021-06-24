@@ -1,5 +1,7 @@
 # Boot Logo Customization
 
+**EN** | [ZH](README.zh.md)
+
 Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 **This program will modify BIOS settings, use at your own risk.** The copyright of the code and binary files used belongs to the original developer.

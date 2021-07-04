@@ -8,7 +8,7 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 ## Supported models
 
-*Please update to the latest BIOS before use. Non-Lenovo computers are not supported.*
+***Please update to the latest BIOS before use. Only Lenovo computers (Ideapad / Xiaoxin, Legion, Yoga, etc.) are supported.***
 
 - Xiaoxin Pro 13 Ryzen
 
@@ -24,7 +24,7 @@ This may happen `.jpg` format files saved with Photoshop. We recommend saving as
 
 ### User interface of this utility is too ugly 🤯
 
-This is actually just something I wanted to use for myself and quickly build, sorry.
+This is actually just something I wanted to use for myself and quickly build ;).
 
 ### Any recommendations for boot logo design?
 

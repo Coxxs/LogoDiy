@@ -8,11 +8,11 @@
 
 ## 測試可用機型
 
-*使用前請更新至最新版 BIOS。不支援其他品牌電腦。*
+***使用前請更新至最新版 BIOS。僅支援 Lenovo 電腦（Ideapad / Xiaoxin, Legion, Yoga 等）。***
 
-- 小新Pro 13 Ryzen
+- Xiaoxin Pro 13 Ryzen
 
-- 小新Air 14 2020 Intel
+- Xiaoxin Air 14 2020 Intel
 
 - 歡迎測試添加
 
@@ -24,7 +24,7 @@ Photoshop 儲存的 `.jpg` 格式檔案可能會出現這樣的情況。建議�
 
 ### 軟體介面太醜了 🤯
 
-這個其實只是我自己要用而快速糊出來的東西，抱歉。
+這個其實只是我自己要用而快速糊出來的東西 ;)
 
 ### 換成什麼圖案好呢
 

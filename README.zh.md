@@ -8,7 +8,7 @@
 
 ## 測試可用機型
 
-***使用前請更新至最新版 BIOS。僅支援 Lenovo 電腦（Ideapad / Xiaoxin, Legion, Yoga 等）。***
+**使用前請更新至最新版 BIOS。僅支援 Lenovo 電腦（Ideapad / Xiaoxin、Legion、Yoga 等）。**
 
 - Xiaoxin Pro 13 Ryzen
 

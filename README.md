@@ -20,7 +20,7 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 ### New boot logo does not take effect
 
-This may happen `.jpg` format files saved with Photoshop. We recommend saving as `.bmp` format and using it directly, or converting to `.jpg` format with other software.
+This may happen when using `.jpg` format files saved with Photoshop. We recommend saving as `.bmp` format and using it directly, or converting to `.jpg` format with other software.
 
 ### User interface of this utility is too ugly 🤯
 

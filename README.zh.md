@@ -8,7 +8,7 @@
 
 ## 測試可用機型
 
-**使用前請更新至最新版 BIOS。僅支援 Lenovo 電腦（Ideapad / Xiaoxin、Legion、Yoga 等）。**
+**僅支援 Lenovo 電腦（Ideapad / Xiaoxin、Legion、Yoga 等）。**
 
 - Xiaoxin Pro 13 Ryzen
 
@@ -18,9 +18,9 @@
 
 ## 常見問題
 
-### 設定成功後，重新啟動未生效
+### 設定成功後，重新啟動未生效 / 顯示錯誤
 
-Photoshop 儲存的 `.jpg` 格式檔案可能會出現這樣的情況。建議儲存為 `.bmp` 格式後直接使用，或用其他軟體轉換為 `.jpg` 格式。
+Photoshop 儲存的 `.jpg` 格式檔案可能會出現這樣的情況。可以儲存為 `.bmp` 格式後直接使用，或用其他軟體（如小畫家）轉換為 `.jpg` 格式。
 
 ### 軟體介面太醜了 🤯
 

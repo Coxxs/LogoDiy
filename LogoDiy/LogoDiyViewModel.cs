@@ -835,8 +835,8 @@ namespace LogoDiy
 			openFileDialog.Multiselect = false;
 			openFileDialog.Title = "请选择图片";
 			openFileDialog.Filter = $"图片文件({filter1})|{filter2}";
-			openFileDialog.ShowDialog();
-			if (true)
+			var res = openFileDialog.ShowDialog();
+			if (res == DialogResult.OK)
 			{
 				CanRecovery = false;
 				FunEnable = false;

@@ -38,9 +38,9 @@
             // 
             // SelectImage
             // 
-            this.SelectImage.Location = new System.Drawing.Point(22, 21);
+            this.SelectImage.Location = new System.Drawing.Point(24, 22);
             this.SelectImage.Name = "SelectImage";
-            this.SelectImage.Size = new System.Drawing.Size(182, 66);
+            this.SelectImage.Size = new System.Drawing.Size(199, 69);
             this.SelectImage.TabIndex = 0;
             this.SelectImage.Text = "Select Image";
             this.SelectImage.UseVisualStyleBackColor = true;
@@ -49,9 +49,9 @@
             // Apply
             // 
             this.Apply.Enabled = false;
-            this.Apply.Location = new System.Drawing.Point(224, 21);
+            this.Apply.Location = new System.Drawing.Point(244, 22);
             this.Apply.Name = "Apply";
-            this.Apply.Size = new System.Drawing.Size(182, 66);
+            this.Apply.Size = new System.Drawing.Size(199, 69);
             this.Apply.TabIndex = 1;
             this.Apply.Text = "Apply";
             this.Apply.UseVisualStyleBackColor = true;
@@ -59,9 +59,9 @@
             // 
             // Recovery
             // 
-            this.Recovery.Location = new System.Drawing.Point(707, 21);
+            this.Recovery.Location = new System.Drawing.Point(771, 22);
             this.Recovery.Name = "Recovery";
-            this.Recovery.Size = new System.Drawing.Size(182, 66);
+            this.Recovery.Size = new System.Drawing.Size(199, 69);
             this.Recovery.TabIndex = 2;
             this.Recovery.Text = "Reset to default";
             this.Recovery.UseVisualStyleBackColor = true;
@@ -71,9 +71,9 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Enabled = false;
-            this.checkBox1.Location = new System.Drawing.Point(457, 41);
+            this.checkBox1.Location = new System.Drawing.Point(495, 43);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(205, 29);
+            this.checkBox1.Size = new System.Drawing.Size(226, 29);
             this.checkBox1.TabIndex = 3;
             this.checkBox1.Text = "Show Loading Icon";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -83,27 +83,27 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.DarkRed;
-            this.label1.Location = new System.Drawing.Point(631, 112);
+            this.label1.Location = new System.Drawing.Point(763, 117);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(258, 25);
+            this.label1.Size = new System.Drawing.Size(207, 25);
             this.label1.TabIndex = 4;
-            this.label1.Text = "USE AT YOUR OWN RISK!";
+            this.label1.Text = "Use at your own risk";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.DarkRed;
-            this.label2.Location = new System.Drawing.Point(17, 112);
+            this.label2.Location = new System.Drawing.Point(19, 117);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(143, 25);
+            this.label2.Size = new System.Drawing.Size(156, 25);
             this.label2.TabIndex = 5;
             this.label2.Text = "Format: , Max: ";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(914, 167);
+            this.ClientSize = new System.Drawing.Size(997, 169);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox1);

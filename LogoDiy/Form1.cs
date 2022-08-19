@@ -22,7 +22,7 @@ namespace LogoDiy
             LogoDiyViewModel.Instance.CreateViewData();
             if (!LogoDiyViewModel.Instance.UIIsEnable)
             {
-                MessageBox.Show("Not supported BIOS!");
+                MessageBox.Show("Unsupported BIOS!\nThis application only supports Lenovo computers with newer BIOS versions.");
                 Application.Exit();
                 return;
             }

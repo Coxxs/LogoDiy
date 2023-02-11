@@ -14,6 +14,8 @@
 
 - Xiaoxin Air 14 2020 Intel
 
+- ThinkBook 14 G4+ IAP
+
 - ThinkBook 15 Gen 3
 
 - 歡迎測試添加

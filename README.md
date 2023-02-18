@@ -18,6 +18,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - ThinkBook 15 Gen 3
 
+- Legion Y9000P 2022
+
 - Feel free to test and add to this list
 
 ## FAQ

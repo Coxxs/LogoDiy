@@ -18,6 +18,8 @@
 
 - ThinkBook 15 Gen 3
 
+- Legion Y9000P 2022
+
 - 歡迎測試添加
 
 ## 常見問題

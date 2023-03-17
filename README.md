@@ -20,6 +20,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - Legion Y9000P 2022
 
+- Yoga 7 16IAP7 Laptop (IdeaPad) 
+
 - Feel free to test and add to this list
 
 ## FAQ

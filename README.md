@@ -22,6 +22,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - Yoga 7 16IAP7
 
+- IdeaPad Gaming 3 15ACH6
+
 - Feel free to test and add to this list
 
 ## FAQ

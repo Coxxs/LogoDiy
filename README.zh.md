@@ -22,6 +22,8 @@
 
 - Yoga 7 16IAP7
 
+- IdeaPad Gaming 3 15ACH6
+
 - 歡迎測試添加
 
 ## 常見問題

@@ -10,6 +10,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 ***Only Lenovo computers (Ideapad / Xiaoxin, Legion, Yoga, etc.) are supported.***
 
+- Xiaoxin Pro 14 2021 Intel
+
 - Xiaoxin Pro 13 Ryzen
 
 - Xiaoxin Air 14 2020 Intel

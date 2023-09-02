@@ -10,6 +10,8 @@
 
 **僅支援 Lenovo 電腦（Ideapad / Xiaoxin、Legion、Yoga 等）。**
 
+- Xiaoxin Pro 14 2021 Intel
+
 - Xiaoxin Pro 13 Ryzen
 
 - Xiaoxin Air 14 2020 Intel

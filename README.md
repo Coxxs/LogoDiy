@@ -26,6 +26,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - IdeaPad Gaming 3 15ACH6
 
+- IdeaPad 3 15ITL6
+
 - Feel free to test and add to this list
 
 ## FAQ

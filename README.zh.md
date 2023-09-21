@@ -26,6 +26,8 @@
 
 - IdeaPad Gaming 3 15ACH6
 
+- IdeaPad 3 15ITL6
+
 - 歡迎測試添加
 
 ## 常見問題
